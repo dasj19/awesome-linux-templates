@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<braseroproject>
+	<version>0.2</version>
+	<label>My Video Disc</label>
+	<track>
+		<video>
+		</video>
+	</track>
+</braseroproject>
